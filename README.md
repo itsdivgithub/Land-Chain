@@ -1,4 +1,4 @@
-# Land Registry using Blockchain Technology- EYHONLINE 2023
+# Land Registry using Blockchain Technology- ETHONLINE 2023
 
 "LandChain" refers to a blockchain-based system or platform specifically designed for land registry and property management purposes. It utilizes the power of blockchain technology to create a decentralized and transparent network that securely records and manages information related to land ownership, transfers, and other relevant data.
 
